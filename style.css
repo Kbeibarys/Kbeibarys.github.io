@@ -1,0 +1,85 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+		background-color: #f3f3f3;
+}
+.header{
+	height: 760px;
+	width: 100%;
+	background-image: url(images/mlechny-put.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+span {
+	font-size: 25px;
+	font-weight: 500;
+	font-family: 'Roboto Slab', serif;
+}
+
+.content {
+	width: 100%;
+	height: 750px;
+	margin-bottom: 100px;
+
+}
+.row {
+	margin: auto;
+	width: 85%;
+	height: 100%;
+	margin-bottom: 
+}
+h1 {
+	color: white;
+	font-family: 'Lato', serif;
+	padding: 15px;
+}
+.row i {
+	color: #b43188;
+	font-size: 14px;
+	margin-right: 5px;
+}
+h3 {
+	margin-top: 10px;
+	text-align: center;
+}
+.skills {
+	margin-top: 15px;
+	margin-left: 50px;
+}
+#skill {
+	margin-top: 15px;
+}
+ li {
+ 	list-style-type: none;
+ }
+ p { 
+    text-indent: 1.5em; 
+    text-align: justify;
+   }
+/*--------------------- footer ---------------------------*/
+.footer {
+	padding-top: 25px;
+	width: 85%;
+    height: 200px;
+	border-radius: 10px 10px 0px 0px;
+	margin: auto;
+	background-color: #b43188;
+}
+
+.footer i {
+	color: #fff;
+	font-size: 35px;
+}
+h2 {
+	color: #fff;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
+li{
+	display: inline;
+	margin-top: 15px;
+	margin-left: 10px;
+}
